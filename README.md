@@ -1,6 +1,6 @@
 Chemotaxis
 ==========
-Chemotaxis is when an organism moves toward or away from a chemical stimulus, like food. Biologists write software using [random walks](http://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm) to model and study [how very small organisms like bacteria search for food](http://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/). In this assignment you will create a simulation of organisms moving away from a starting position using a random walk. This assignment is similar in some ways to the ticklish penguin, but is different in that you must create a class to represent the organisms. To start the assignment, fork [this repository](https://github.com/APCSLowell/Chemotaxis). NOTE: you must use `Math.random()` for all the random numbers in this assignment. 
+Chemotaxis is when an organism moves toward or away from a chemical stimulus, like food. Biologists write software using [random walks](http://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm) to model and study [how very small organisms like bacteria search for food](http://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/). In this assignment you will create a simulation of organisms moving away from a starting position using a random walk. To start the assignment, fork [this repository](https://github.com/APCSLowell/Chemotaxis). NOTE: you must use `Math.random()` for all the random numbers in this assignment. 
 
 Requirements
 ============
