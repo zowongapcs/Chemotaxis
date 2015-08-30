@@ -22,7 +22,7 @@ Samples of Student Work
 [Jingbin](http://ben441318936.github.io/Chemotaxis/)  
 [Erika](http://bekutaa.github.io/Chemotaxis/)  
 [Eric](http://ericheung1231.github.io/Chemotaxis/)  
-[Annie](http://anxie.github.io/Chemotaxis/) 
+[Annie](http://anxie.github.io/Chemotaxis/)   
 [Celena](http://celenac.github.io/Chemotaxis/)  
 [Teresa](http://teresamibarra.me/Chemotaxis/)  
 [Christine](http://christinechao.github.io/Chemotaxis/)  
