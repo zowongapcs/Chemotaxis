@@ -8,7 +8,7 @@ This assignment will have a Bacteria class. The class Bacteria will have the fol
 - 3 ints which hold the x and y coordinates of the bacteria position, and the bacteria color.
 - A constructor which initializes the 3 ints
 - `void move()` which moves the bacteria in a random walk pattern.
-- `void show()` which draws the bacteria in the correct position
+- `void show()` which draws the bacteria in the correct position and color  
    
 Extensions
 ==========
