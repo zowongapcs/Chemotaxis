@@ -1,6 +1,6 @@
 Chemotaxis
 ==========
-Chemotaxis is when an organism moves toward or away from a chemical stimulus like food. Biologists write software using [random walks](http://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm) to model and study [how very small organisms like bacteria search for food](http://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/). In this assignment you will create a simulation of organisms moving away from a starting position using a random walk. To start the assignment, fork [this repository](https://github.com/APCSLowell/Chemotaxis). You may find slides 241 - 307 on <a href="https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0">apjava1.pptx</a> helpful. NOTE: you must use `Math.random()` for all the random numbers in this assignment. 
+Chemotaxis is when an organism moves toward or away from a chemical stimulus like food. Biologists write software using [random walks](http://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm) to model and study [how very small organisms like bacteria search for food](http://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/). In this assignment you will create a simulation of organisms moving away from a starting position using a random walk. To start the assignment, fork [this repository](https://github.com/APCSLowell/Chemotaxis). You may find slides 241 - 307 on <a href="https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0">apjava1.pptx</a> and https://drive.google.com/open?id=0Bz2ZkT6qWPYTNGNiNjQxOTItYWFhMS00YjZiLTlkY2ItZTBjNjgxMTJhMmQy">Arrays of Objects</a> worksheet helpful. NOTE: you must use `Math.random()` for all the random numbers in this assignment. 
 
 Requirements
 ============
@@ -18,6 +18,8 @@ If you have extra time, you might try to have the bacteria move in a "biased ran
 Samples of Student Work
 -----------------------
 [Aliya](http://aliyachambless.github.io/Chemotaxis/)  
+[Reesa](http://aljini.github.io/Chemotaxis/)  
+[Dmitry](http://dkuliaev.github.io/Chemotaxis/)  
 [Chris](http://cjlim2007apcs.github.io/Chemotaxis/)  
 [Winnie](http://winnie3269.github.io/Chemotaxis/)  
 [Brandi](http://brw1221.github.io/Chemotaxis/)  
