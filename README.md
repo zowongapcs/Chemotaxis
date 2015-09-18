@@ -13,7 +13,7 @@ This assignment will have a Bacteria class. The class Bacteria will have the fol
 Extensions
 ==========
 
-If you have extra time, you might try to have the bacteria move in a "biased random walk" towards some stimulus like a piece of food or the mouse. You can modify your class so the bacteria have a finite lifespan and can reproduce. You can also simulate a predator and prey. Your simulation doesn't have to look like any other. Have fun and be creative.
+If you have extra time, you might try to have the bacteria move in a "biased random walk" towards some stimulus like a piece of food or the mouse. You can use the mouse buttons to adjust the bias towards or away from the mouse. You can modify your class so the bacteria have a finite lifespan and can reproduce. You can also simulate a predator and prey. Your simulation doesn't have to look like any other. Have fun and be creative.
 
 Samples of Student Work
 -----------------------
