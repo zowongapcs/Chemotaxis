@@ -24,6 +24,8 @@ Samples of Student Work
 [Eric](http://eryup.github.io/Chemotaxis/)  
 [Reesa](http://aljini.github.io/Chemotaxis/)  
 [Dmitry](http://dkuliaev.github.io/Chemotaxis/)  
+[Nicole](http://nicolethai.github.io/Chemotaxis/)  
+[Thien](http://thtran1.github.io/Chemotaxis/)  
 [Curtis](http://oyaaya.github.io/Chemotaxis/)  
 [Anya](http://anyacakes.github.io/Chemotaxis/)  
 [David](http://unuse45.github.io/Chemotaxis/)  
