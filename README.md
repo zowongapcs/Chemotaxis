@@ -14,12 +14,13 @@ Requirements
 Extensions
 ==========
 
-If you have extra time, you might try to have the bacteria move in a "biased random walk" towards some stimulus like a piece of food or the mouse. You can use the mouse buttons to adjust the bias towards or away from the mouse. You can modify your class so the bacteria have a finite lifespan and can reproduce. You can simulate other organisms besides bacteria and even simulate a predator and prey. Your simulation doesn't have to look like any other. Have fun and be creative.
+If you have extra time, you might try to have the bacteria move in a "biased random walk" towards some stimulus like a piece of food or the mouse. You can use the mouse buttons to adjust the bias towards or away from the mouse. You can modify your class so the bacteria have a finite lifespan and can reproduce. You can simulate other organisms besides bacteria and even have multiple types of organisms like a predator and prey. Your simulation doesn't have to look like any other. Have fun and be creative.
 
 Samples of Student Work
 -----------------------
 [Megan](http://meegee98.github.io/Chemotaxis/)  
 [Aidan](http://hakyojin.github.io/Chemotaxis/)  
+[Noah](http://noahzpepper.github.io/Chemotaxis/)  
 [Tiger](http://tigerrlao.github.io/Chemotaxis/)  
 [Aliya](http://aliyachambless.github.io/Chemotaxis/)  
 [Yang](http://giangd.github.io/Chemotaxis/)  
