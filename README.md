@@ -4,7 +4,7 @@ Chemotaxis is when an organism moves toward or away from a chemical stimulus lik
 
 Requirements
 ============
-This assignment will have a Bacteria class. The class Bacteria will have the following members:
+This assignment will have a Bacteria class. Your program will have an Array of that class Bacteria. The class Bacteria will have the following members:
 - 3 ints which hold the x and y coordinates of the bacteria position, and the bacteria color.
 - A constructor which initializes the 3 ints
 - `void move()` which moves the bacteria in a random walk pattern.
