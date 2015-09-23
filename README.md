@@ -27,6 +27,7 @@ Samples of Student Work
 [Leif](http://leifmorgan.github.io/Chemotaxis/)  
 [Esther](http://elam2016.github.io/Chemotaxis/)  
 [Eric](http://eryup.github.io/Chemotaxis/)  
+[Raymond](http://raymondshew.github.io/Chemotaxis/)  
 [Reesa](http://aljini.github.io/Chemotaxis/)  
 [Dmitry](http://dkuliaev.github.io/Chemotaxis/)  
 [Cole](https://colescottapcs.github.io/Chemotaxis/)  
