@@ -26,6 +26,7 @@ Samples of Student Work
 [Aidan](http://hakyojin.github.io/Chemotaxis/)  
 [Noah](http://noahzpepper.github.io/Chemotaxis/)  
 [Tiger](http://tigerrlao.github.io/Chemotaxis/)  
+[Carl](http://cahouweling.github.io/Chemotaxis/)  
 [Aliya](http://aliyachambless.github.io/Chemotaxis/)  
 [Yang](http://giangd.github.io/Chemotaxis/)  
 [Leif](http://leifmorgan.github.io/Chemotaxis/)  
