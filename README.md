@@ -20,6 +20,8 @@ Samples of Student Work
 -----------------------
 [Elliott](http://elliottdebruin.github.io/Chemotaxis/)  
 [Fiona](http://wongfiona.github.io/Chemotaxis/)  
+[Stephen](http://stephendoes.github.io/Chemotaxis/)  
+[Kevin](http://oohklim.github.io/Chemotaxis/)  
 [Michelle](http://xmichellex.github.io/Chemotaxis/)  
 [Marvin](http://mluong888.github.io/Chemotaxis/)  
 [Megan](http://meegee98.github.io/Chemotaxis/)  
