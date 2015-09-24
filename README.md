@@ -24,6 +24,7 @@ Samples of Student Work
 [Kevin](http://oohklim.github.io/Chemotaxis/)  
 [Michelle](http://xmichellex.github.io/Chemotaxis/)  
 [Marvin](http://mluong888.github.io/Chemotaxis/)  
+[Howard](http://apcshoward.github.io/Chemotaxis/)  
 [Megan](http://meegee98.github.io/Chemotaxis/)  
 [Aidan](http://hakyojin.github.io/Chemotaxis/)  
 [Noah](http://noahzpepper.github.io/Chemotaxis/)  
