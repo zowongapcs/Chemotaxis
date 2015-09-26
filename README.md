@@ -20,7 +20,7 @@ Samples of Student Work
 -----------------------
 [Skyler](http://skymefly.github.io/Chemotaxis/)  
 [Rebecca](http://rebeckur.github.io/Chemotaxis/)  
-[Sida](http://rebeckur.github.io/Chemotaxis/)  
+[Sida](http://sidaqin.github.io/Chemotaxis/)  
 [Xiao Qin](http://qingyuu.github.io/Chemotaxis/)  
 [Andrew](http://andrewtheo.github.io/Chemotaxis/)  
 [Henry](http://usaruner.github.io/Chemotaxis/)  
