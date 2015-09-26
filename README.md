@@ -18,6 +18,7 @@ If you have extra time, you might try to have the bacteria move in a "biased ran
 
 Samples of Student Work
 -----------------------
+[Skyler](http://skymefly.github.io/Chemotaxis/)  
 [Rebecca](http://rebeckur.github.io/Chemotaxis/)  
 [Sida](http://rebeckur.github.io/Chemotaxis/)  
 [Xiao Qin](http://qingyuu.github.io/Chemotaxis/)  
@@ -25,6 +26,8 @@ Samples of Student Work
 [Henry](http://usaruner.github.io/Chemotaxis/)  
 [Francisco](http://frbui.github.io/Chemotaxis/)  
 [Andy](http://chnkzo.github.io/Chemotaxis/)  
+[Jamila](http://jamillas.github.io/Chemotaxis/)  
+[Thomas](http://whatarethose.github.io/Chemotaxis/)  
 [Kaki](http://kaki123.github.io/Chemotaxis/)  
 [Miko](http://mikolajkrajewski.github.io/Chemotaxis/)  
 [Elliott](http://elliottdebruin.github.io/Chemotaxis/)  
