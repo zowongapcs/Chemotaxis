@@ -20,6 +20,7 @@ Samples of Student Work
 -----------------------
 [Edmund](http://firework999363.github.io/Chemotaxis/)  
 [Thomas](http://leechak.github.io/Chemotaxis/)  
+[Brian](http://articlegend.github.io/Chemotaxis/)  
 [Ivan](http://greypoupon.github.io/Chemotaxis/)  
 [Helen](http://hezhang2.github.io/Chemotaxis/)  
 [Herman](http://hezeng1.github.io/Chemotaxis/)  
