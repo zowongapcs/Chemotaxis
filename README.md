@@ -38,7 +38,7 @@ Samples of Student Work
 [Herman](http://hezeng1.github.io/Chemotaxis/)  
 [Amy](http://amhe3.github.io/Chemotaxis/)  
 [Emily](http://mkwan13.github.io/Chemotaxis/)  
-[Ivy](http://ivyla.github.io/Chemotaxis/) 
+[Ivy](http://ivyla.github.io/Chemotaxis/)  
 [Stephan](http://stephan-xie-01.github.io/Chemotaxis/)  
 [Xu Ting](http://xiutingyu.github.io/Chemotaxis/)  
 [Ryan](http://ryanjacko.github.io/Chemotaxis/)  
