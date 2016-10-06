@@ -28,6 +28,7 @@ Samples of Student Work
 [Kirby](https://krbyktl.github.io/Chemotaxis/)   
 [Lydia](https://aqua28.github.io/Chemotaxis/)   
 [Eric](https://jellybeanmill.github.io/Chemotaxis/)   
+[Yev](https://yevgeniybarkalov.github.io/Chemotaxis/)   
 [Joanna](https://j0annalu.github.io/Chemotaxis/)   
 [Gina](https://gimontarano.github.io/Chemotaxis/)   
 [Robert](https://rshi159.github.io/Chemotaxis/)  
