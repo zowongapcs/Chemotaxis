@@ -8,7 +8,7 @@ Requirements
   - 3 ints which hold the x and y coordinates of the bacteria position, and the bacteria color.
   - A constructor which initializes the 3 ints
   - `void move()` which moves the bacteria in a **random walk** pattern.
-  - `void show()` which draws the bacteria using the three member variales 
+  - `void show()` which draws the bacteria using the three member variables 
 2. You will then use an array to store many *instances* of the Bacteria. 
    
 Extensions
