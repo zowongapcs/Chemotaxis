@@ -21,6 +21,7 @@ Samples of Student Work
 [Lily](https://oulilyapjava.github.io/Chemotaxis/)   
 [emily](https://emquach.github.io/Chemotaxis/)   
 [Warren](https://werren.github.io/Chemotaxis/)   
+[Lalit](https://darkefox.github.io/Chemotaxis/)   
 [Oona](https://oonarisseadams.github.io/Chemotaxis/)   
 [Emil](https://emil000.github.io/Chemotaxis/)   
 [Alex](http://gh.epixtallion.tk/Chemotaxis/)   
