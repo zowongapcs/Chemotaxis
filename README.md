@@ -33,6 +33,7 @@ Samples of Student Work
 [Alex](http://gh.epixtallion.tk/Chemotaxis/)   
 [Justin](https://jolucky.github.io/Chemotaxis/)   
 [Nick](https://ap-java.github.io/Chemotaxis/)   
+[Scott](https://lulzees.github.io/Chemotaxis/)   
 [Tristan](https://trting.github.io/Chemotaxis/)   
 [Tim](https://timyuen2.github.io/Chemotaxis/)   
 [Chanel](https://chan3l.github.io/Chemotaxis/)   
