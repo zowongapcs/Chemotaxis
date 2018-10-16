@@ -10,6 +10,7 @@ Requirements
    - `void move()` which moves the bacteria in a **random walk** pattern.
    - `void show()` which draws the bacteria using the three member variables 
 2. You will then use an array to store many *instances* of the Bacteria. 
+3. Personalize the title, headline and footer of `index.html`   
    
 Extensions
 ==========
@@ -18,6 +19,27 @@ If you have extra time, you might try to have the bacteria move in a "biased ran
 
 Samples of Student Work
 -----------------------
+[Daniel](https://danieldoan101.github.io/Chemotaxis/)   
+[Willis](https://willisli.github.io/Chemotaxis/)   
+[Jason](https://everyusernameitrywentwrong-jason-ye.github.io/Chemotaxis/)   
+[Brandon](https://btlsandwich.github.io/Chemotaxis/)   
+[Jalen](https://jalenng.github.io/Chemotaxis/)   
+[Richard](https://riprivalov.github.io/Chemotaxis/)   
+[Racine](https://ruixinsun.github.io/Chemotaxis/)   
+[Kam](https://katam8.github.io/Chemotaxis/)   
+[Devin](https://dely4.github.io/Chemotaxis/)   
+[Lu-Aung](https://luaung.github.io/Chemotaxis/)   
+[Kristi](https://kristilee1171.github.io/Chemotaxis/)   
+[Timmy](https://tidang.github.io/Chemotaxis/)   
+[Marc](https://alltheusernamesdontworkexceptmine.github.io/Chemotaxis/)   
+[Ethan](https://ethantruong.github.io/Chemotaxis/)   
+[Peter](https://peterwu1205.github.io/Chemotaxis/)   
+[Andy](https://peterwu1205.github.io/Chemotaxis/)   
+[Eunice](https://euborres.github.io/Chemotaxis/)   
+[Alexis](https://alexisapcs.github.io/Chemotaxis/)   
+[Carmen](https://carmenli14.github.io/Chemotaxis/)   
+[Alan](https://alchena.github.io/Chemotaxis/)   
+[Rowan](https://rowanmckereghan.github.io/Chemotaxis/)   
 [Lily](https://oulilyapjava.github.io/Chemotaxis/)   
 [Wilson](https://wlama.github.io/Chemotaxis/)   
 [Jing](https://jili53.github.io/Chemotaxis/)   
