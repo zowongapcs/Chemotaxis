@@ -29,6 +29,7 @@ Samples of Student Work
 [Mari](https://mariwoodworth.github.io/Chemotaxis/)   
 [Lily](https://cailcali.github.io/Chemotaxis/)   
 [Jessie](https://jechen30.github.io/Chemotaxis/)   
+[Vicky](https://vickyguan3.github.io/Chemotaxis/)   
 [Mia](https://chenmia.github.io/Chemotaxis/)   
 [Fressia](https://freesiaf.github.io/Chemotaxis/)   
 [Amy](https://amychang415.github.io/Chemotaxis/)   
