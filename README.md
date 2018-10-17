@@ -21,6 +21,7 @@ Samples of Student Work
 -----------------------
 [Wen](https://wizardowolfini.github.io/Chemotaxis/)   
 [Josh](https://jowong1.github.io/Chemotaxis/)   
+[Lawrence](https://lawrencelowell.github.io/Chemotaxis/)   
 [Anthony](https://aanthh.github.io/Chemotaxis/)   
 [Angel](https://anli30.github.io/Chemotaxis/)   
 [Lucian](https://lucianli.github.io/Chemotaxis/)   
