@@ -54,7 +54,7 @@ Samples of Student Work
 [Sean](https://seanzep.github.io/Chemotaxis/)   
 [Emma](https://emmab3.github.io/Chemotaxis/)   
 [Johnny](https://jonguyen15.github.io/Chemotaxis/)   
-[JT}(https://seyertj.github.io/Chemotaxis/)   
+[JT](https://seyertj.github.io/Chemotaxis/)   
 [Michael](https://psyduckjar.github.io/Chemotaxis/)   
 [Jennifer](https://jp4099.github.io/Chemotaxis/)   
 [Andrew](https://abootatoo.github.io/Chemotaxis/)    
