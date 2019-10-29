@@ -26,6 +26,7 @@ Samples of Student Work
 [Alex](https://thunderb01.github.io/Chemotaxis/)   
 [Marlon](https://marlonsm.github.io/Chemotaxis/)   
 [Rishi](https://rinath-apcs.github.io/Chemotaxis/)   
+[Claire](https://clrafferty.github.io/Chemotaxis/)   
 [Eric](https://erngo2.github.io/Chemotaxis/)   
 [Antonio](https://andzibmis.github.io/Chemotaxis/)   
 [Kaitlyn](https://therealkaitlyn.github.io/Chemotaxis/)   
