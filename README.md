@@ -21,6 +21,7 @@ Samples of Student Work
 -----------------------
 [Gabriel](https://gazhu1.github.io/Chemotaxis/)   
 [Madeline](https://mhl343.github.io/Chemotaxis/)   
+[Noah](https://bizaark.github.io/Chemotaxis/)    
 [Melanie](https://metam2.github.io/Chemotaxis/)   
 [Kang](https://kangryu.github.io/Chemotaxis/)   
 [Joaquin](https://jowarren137.github.io/Chemotaxis/)   
