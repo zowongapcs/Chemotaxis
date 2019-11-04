@@ -24,6 +24,7 @@ Samples of Student Work
 [Melanie](https://metam2.github.io/Chemotaxis/)   
 [Kang](https://kangryu.github.io/Chemotaxis/)   
 [Joaquin](https://jowarren137.github.io/Chemotaxis/)   
+[Sam](https://samuel-kap.github.io/Chemotaxis/)   
 [Anna](https://annaorgel.github.io/Chemotaxis/)    
 [Alex](https://thunderb01.github.io/Chemotaxis/)   
 [Marlon](https://marlonsm.github.io/Chemotaxis/)   
