@@ -80,7 +80,7 @@ void mousePressed(){
     }else{
       pause=false;
     }
-  }else if(mouseX<1150 && game==true){
+  }else if(mouseX<1150 && game==true && start==true){
     num++;
     songs++;
     clicks++;
