@@ -1,11 +1,12 @@
- Fan[] fans = new Fan[10000];
+Fan[] fans = new Fan[10000];
 int num=10;
 int lives=5;
-boolean pause=false;
+boolean pause=true;
 int songs=1;
 int fanCounter=10;
 int clicks=1;
 boolean game=true;
+boolean start=false;
 
 void setup(){
   size(1250,700);
@@ -24,7 +25,17 @@ void draw(){
   text(fanCounter,1185,575);
   text("Money:",1180,605);
   text("$"+songs*fanCounter,1160,620);
-  if(pause==false){
+  if(start==false){
+    fill(200);
+    noStroke();
+    rect(1160,10,80,80,20);
+    fill(175);
+    textSize(20);
+    text("Start",1177,55);
+    fill(0);
+    textSize(12);
+    text("Click to start game --->",1000,55);
+  }else if(pause==false){
   fill(200);
   noStroke();
   rect(1160,10,80,80,20);
@@ -49,16 +60,21 @@ void draw(){
     fans[num]= new Fan();
   }
   for(int i=0;i<num;i++){
+    if(start==true){
     if(pause==false){
     fans[i].move();
     fans[i].touch();
     }
     fans[i].show();
+    }
     fans[i].death();
   }
 }
 void mousePressed(){
   if(get(mouseX,mouseY) == color(200) || get(mouseX,mouseY) == color(175)){
+    if(start==false){
+      start=true;
+    }
     if(pause==false){
       pause=true;
     }else{
